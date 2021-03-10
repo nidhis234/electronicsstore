@@ -10,8 +10,7 @@ It is a simple sring boot based application that consists of few REST based endp
 <li>Jacoco to maintain code coverage report</li>
 <li>Swagger for API documentation</li>
 </ul>
-
-
-
-
+---
+# Available Endpoints:
+![Swagger](https://github.com/nidhis234/electronicsstore/blob/master/AvailableEndpoints.PNG?raw=true)
 
